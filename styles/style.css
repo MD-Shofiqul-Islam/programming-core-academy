@@ -1,8 +1,12 @@
-.slider-part img
-{
-  background-color: black !;
+
+.carousel-item img{
+  filter: brightness(60%);
 }
- 
+ .fa-brands{
+  
+  font-size: 2rem;
+  padding: .25rem;
+ }
 
 
 
