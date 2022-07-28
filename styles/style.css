@@ -20,6 +20,7 @@
   .custom{
     flex-direction: column;
   }
+}
 /* ---tablets devices */
 @media only screen and  (min-width:689px) 
  and  (max-width:888px) {
@@ -32,5 +33,4 @@
   .custom{
     flex-direction: column;
   }
-}
 }
