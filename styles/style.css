@@ -15,10 +15,10 @@
     width: 100%;
   }
   .row{
-    flex-direction: column;
+    flex-direction: column !important;
   }
   .custom{
-    flex-direction: column;
+    flex-direction: column !important;
   }
 }
 /* ---tablets devices */
@@ -28,9 +28,10 @@
     width: 100%;
   }
   .row{
+    flex-direction: column !important;
   
   }
   .custom{
-    flex-direction: column;
+    flex-direction: column !important;
   }
 }
